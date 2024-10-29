@@ -1,0 +1,1 @@
+"C:\Program Files\R\R-4.3.3\bin\x64\R.exe"  CMD BATCH "G:\Mickael\Projets\CFTC\R\Get_CFTC_REPORT.R"
